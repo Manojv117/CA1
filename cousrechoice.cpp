@@ -11,7 +11,7 @@ scanf("%c",&choice);
   case 1:
 	printf("chossen cousre b.tech EEE");
   case 2:
-	printf("choosen cousre b.tech fee");
+	printf("choosen cousre b.tech MECH");
 
 }
 return 0;
