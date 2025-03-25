@@ -8,6 +8,7 @@ scanf("%c",&choice);
 
   case 0:
  	printf("chossen cousre b.tech CSE");
+	printf(" i am in new branch");
   case 1:
 	printf("chossen cousre b.tech EEE");
   case 2:
