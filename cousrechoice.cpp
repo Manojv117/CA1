@@ -7,7 +7,9 @@ scanf("%c",&choice);
  switch(choice){
 
   case 0:
-	printf("chossen cousre b.tech CSE");
+ 	printf("chossen cousre b.tech CSE");
+  case 1:
+	printf("chossen cousre b.tech EEE");
 }
 return 0;
 }
