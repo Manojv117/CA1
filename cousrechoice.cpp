@@ -10,6 +10,7 @@ scanf("%c",&choice);
  	printf("chossen cousre b.tech CSE");
   case 1:
 	printf("chossen cousre b.tech EEE");
+  case 2:
 }
 return 0;
 }
