@@ -20,11 +20,17 @@ scanf("%c",&choice);
   case 1:
 	printf("chossen cousre b.tech EEE");
   case 2:
+<<<<<<< HEAD
 	printf("choosen cousre b.tech MECH");
   case 4:
 	printf("chossen cousre b.tech IOT");
 
 >>>>>>> test01
+=======
+	printf("chossen couse b.tech FEE");
+ case 3:
+	printf("choose my b.tech cousre called atomic habits ");
+>>>>>>> test02
 }
 return 0;
 }
